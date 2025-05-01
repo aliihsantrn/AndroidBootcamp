@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Yukarıdan aşağıya siyah → transparan geçişli bir gradient.
+startColor: %80 opak siyah
+centerColor: %60 opak siyah
+endColor: tamamen şeffaf
+-->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <gradient
+        android:angle="90"
+        android:startColor="#CC000000"
+        android:centerColor="#E6000000"
+        android:endColor="#FF000000"/>
+
+</shape>

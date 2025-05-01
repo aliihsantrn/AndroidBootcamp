@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tabii Colors -->
+    <color name="black">#FF1E1E1E</color> <!-- Koyu yerine koyu gri -->
+    <color name="white">#FFFFFFFF</color> <!-- Aynı kalabilir -->
+    <color name="primary">#00C288</color> <!-- Daha pastel bir yeşil -->
+    <color name="secondaryTextColor">#5C5C5C</color> <!-- Açık temaya uygun gri -->
+    <color name="detailTextColor">#7A7A7A</color> <!-- Daha yumuşak detay rengi -->
+
+</resources>

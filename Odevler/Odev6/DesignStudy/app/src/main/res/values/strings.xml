@@ -1,0 +1,18 @@
+<resources>
+    <!-- Tabii String Resources -->
+    <string name="app_name">Tabii</string>
+    <string name="haftaninOneCikan">Weekly Highlights</string>
+    <string name="logo">Logo</string>
+    <string name="arrow_icon">Arrow Icon</string>
+    <string name="tab_item_belgesel">Documentary</string>
+    <string name="tab_item_tekrar_zle">Watch Again</string>
+    <string name="tab_item_cocuk">Kids</string>
+    <string name="tab_item_film">Movie</string>
+    <string name="tab_item_dizi">Series</string>
+    <string name="tab_item_tumu">All</string>
+    <string name="oynat">Play</string>
+    <string name="dizi_resim">Series Image</string>
+    <string name="yeni_dizi">New Series</string>
+    <string name="tarih">History</string>
+    <string name="izlemeye_devam_et">Keep watching!</string>
+</resources>

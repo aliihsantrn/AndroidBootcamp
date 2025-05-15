@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tabii</string>
+    <string name="haftaninOneCikan">Haftanın Öne Çıkanları</string>
+    <string name="logo">Logo</string>
+    <string name="arrow_icon">Arrow Icon</string>
+    <string name="tab_item_belgesel">Belgesel</string>
+    <string name="tab_item_tekrar_zle">Tekrar İzle</string>
+    <string name="tab_item_cocuk">Çocuk</string>
+    <string name="tab_item_film">Film</string>
+    <string name="tab_item_dizi">Dizi</string>
+    <string name="tab_item_tumu">Tümü</string>
+    <string name="oynat">Oynat</string>
+    <string name="dizi_resim">Dizi Resim</string>
+    <string name="yeni_dizi">Yeni Dizi</string>
+    <string name="tarih">Tarih</string>
+    <string name="izlemeye_devam_et">İzlemeye Devam Et !</string>
+</resources>
